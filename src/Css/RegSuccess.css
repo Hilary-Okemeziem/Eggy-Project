@@ -1,0 +1,28 @@
+.success-box{
+    width: 450px;
+    height: 560px;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.success-box-container{
+    padding: 50px;
+}
+
+.input-tag{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0076A7;
+    background: transparent;
+    border-radius: 5px;
+    color: #0076A7;
+}
+
+.login-btn{
+    width: 100%;
+    padding: 10px;
+    background-color: #0076A7;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #0076A7;
+}

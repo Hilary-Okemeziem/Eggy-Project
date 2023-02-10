@@ -1,0 +1,31 @@
+.verify-box{
+    width: 400px;
+    height: 380px;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.input-tag{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0076A7;
+    background: transparent;
+    border-radius: 5px;
+    color: #0076A7;
+}
+
+.verify-btn{
+    width: 100%;
+    padding: 10px;
+    background-color: #0076A7;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #0076A7;
+}
+
+.back-icon{
+    position: absolute;
+    left: 1.5rem;
+    top: 2rem;
+    cursor: pointer
+}

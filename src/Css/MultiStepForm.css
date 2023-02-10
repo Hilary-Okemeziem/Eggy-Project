@@ -1,0 +1,16 @@
+.step{
+    color: #0076A7;
+    background-color: white;
+    border: 1px solid #0076A7;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.step.completed{
+    background-color: #0076A7;
+    color: white;
+}

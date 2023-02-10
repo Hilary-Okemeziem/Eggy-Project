@@ -1,0 +1,22 @@
+.welcome-text{
+    color: #0076A7;
+    text-align: center;
+}
+
+.reg-btn{
+    width: 100%;
+    padding: 10px;
+    background-color: #0076A7;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #0076A7;
+}
+
+.sign-btn{
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    color: #0076A7;
+    border-radius: 5px;
+    border: 1px solid #0076A7;
+}

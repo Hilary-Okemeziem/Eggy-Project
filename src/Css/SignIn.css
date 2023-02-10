@@ -1,0 +1,52 @@
+.signin-box{
+    width: 440px;
+    height: 520px;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.input-tag{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0076A7;
+    background: transparent;
+    border-radius: 5px;
+}
+
+.password-icon{
+    position: absolute;
+    right: 0.5rem;
+    top: 0.75rem;
+    color: #0076A7;
+    cursor: pointer;
+}
+
+.name-icon{
+    position: absolute;
+    right: 0.5rem;
+    top: 1.2rem;
+    color: #0076A7;
+}
+
+.email-icon{
+    position: absolute;
+    right: 0.5rem;
+    top: 1.2rem;
+    color: #0076A7;
+}
+
+.next-btn{
+    width: 100%;
+    padding: 10px;
+    background-color: #0076A7;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #0076A7;
+}
+
+.back-icon{
+    position: absolute;
+    left: 2rem;
+    top: 1.5rem;
+    cursor: pointer
+}
