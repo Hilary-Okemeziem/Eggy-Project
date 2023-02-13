@@ -4,10 +4,12 @@ import RegisterPage from './components/RegisterPage';
 import VerifyEmail from './components/VerifyEmail';
 import RegSuccessPage from './components/RegSuccessPage';
 import SignIn from './components/SignIn';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <Routes>
         <Route path="/" element={<WelcomePage/>}/>
         <Route path="/register" element={<RegisterPage/>}/>
