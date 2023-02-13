@@ -5,7 +5,7 @@ import '../Css/RegSuccess.css'
 
 const RegSuccessPage = () => {
   return (
-    <div className="bg-image">
+    <div className="bg-image pt-5">
       <div className="d-flex align-items-center justify-content-center w-100 h-100">
         <div className="bg-white success-box">
           <div className="success-box-container">
